@@ -18,3 +18,8 @@
 
 ![DailyJS](./cover.png)
 
+## Table of Contents
+
+| Day Number   | Topic                | Website Link  |
+| ----- |----------------------| -----|
+| [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) |
