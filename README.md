@@ -23,3 +23,7 @@
 | Day Number   | Topic                | Website Link  |
 | ----- |----------------------| -----|
 | [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) |
+
+## Disclaimer
+
+I do not own the rights to the concepts I will discuss in this DailyJS initiative. The questions and concepts have been collected from various sources and I have tried to present them in a way that would be simple to understand. If you think you are the owner of any question or any code, send me an email at codetoexpress@gmail.com, I will be more than happy to give the appropriate credits.

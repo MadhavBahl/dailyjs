@@ -1,8 +1,8 @@
-# The `forEach` Helper
+# Day 1: The `forEach` Helper
 
 ![The forEach helper](./cover.png)
 
-The `forEach` helper function can be seen as an alternative to the regular for loop. The `forEach()` method basically calls an function (called `iterator function`) once for each element in the array, in order. 
+The `forEach` helper function can be seen as an alternative to the regular for loop. The `forEach()` method basically calls a function (called `iterator function`) once for each element in the array, in order. 
 
 In simple language, the forEach method loops through each element in an array and runs a function on that particular element.
 
@@ -78,6 +78,16 @@ array.forEach(function(currentValue, index, arr), thisValue)
 - Less Amount of Code
 - More Readable
 - Less Chances of error
+
+## Download your free eBook
+
+<a href="./ebook.pdf" style="display: inline-block; margin: 0.3em; padding: 1.2em 5em; overflow: hidden; position: relative; text-decoration: none; text-transform: uppercase; border-radius: 3px;  -webkit-transition: 0.3s; -moz-transition: 0.3s; -ms-transition: 0.3s; -o-transition: 0.3s;  transition: 0.3s; box-shadow: 0 2px 10px rgba(0,0,0,0.5); border: none;  font-size: 15px; text-align: center;   background-color: #03A9F4; color: white; margin-left: 38%;" download class="btn-rounded-white">Claim Your Free PDF Here</a>
+
+## Further Read
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+## Carbon Code Sample
 
 ![code](https://user-images.githubusercontent.com/26179770/68589845-02bfc200-04b3-11ea-8e46-a74e8de8f16c.png)
 
