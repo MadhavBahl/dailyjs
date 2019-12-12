@@ -52,10 +52,10 @@ The `map` helper comes to the rescue at such places, it applies a particular fun
 
 ## Practise questions
 
-1. Make an array of numbers that are doubles of the first array  
+1. [Make an array of numbers that are doubles of the first array](./exercises/1.js)
      
-2. Take an array of numbers and convert each element  into a string.
+2. [Take an array of numbers and convert each element into a string](./exercises/2.js)
   
-3. Capitalize the first letter of each name in the names array
+3. [Capitalize the first letter of each name in the names array](./exercises/3.js)
 
-4. Given an of news headlines (take some random data), and enclose the headlines in `<h1>` tag and append them to DOM to display the news headlines
+4. [Given an of news headlines (take some random data), and enclose the headlines in `<h1>` tag and append them to DOM to display the news headlines](./exercises/4.js)
