@@ -1,5 +1,7 @@
 # Day 2: The `map` helper
 
+![The map helper](./cover.png)
+
 The `map()` helps to make a new array from the elements of the given array by performing some action on each element.
 
 In simple language, The `map` helper takes a function as the argument and performs that function on each element of the given array (in order of index) to create a new array without changing the original array.
