@@ -23,6 +23,7 @@
 | Day Number   | Topic                | Website Link  |
 | ----- |----------------------| -----|
 | [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) |
+| [Day 2](./day2)     | [The `map` Helper](./day2)     | [http://madhavbahl.tech/dailyjs/day2/](http://madhavbahl.tech/dailyjs/day2/)
 
 ## Disclaimer
 
