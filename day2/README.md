@@ -61,3 +61,11 @@ The `map` helper comes to the rescue at such places, it applies a particular fun
 3. [Capitalize the first letter of each name in the names array](./exercises/3.js)
 
 4. [Given an of news headlines (take some random data), and enclose the headlines in `<h1>` tag and append them to DOM to display the news headlines](./exercises/4.js)
+
+## Download your free eBook
+
+<a href="./ebook.pdf" style="display: inline-block; margin: 0.3em; padding: 1.2em 5em; overflow: hidden; position: relative; text-decoration: none; text-transform: uppercase; border-radius: 3px;  -webkit-transition: 0.3s; -moz-transition: 0.3s; -ms-transition: 0.3s; -o-transition: 0.3s;  transition: 0.3s; box-shadow: 0 2px 10px rgba(0,0,0,0.5); border: none;  font-size: 15px; text-align: center;   background-color: #03A9F4; color: white; margin-left: 38%;" download class="btn-rounded-white">Claim Your Free PDF Here</a>
+
+## Carbon code sample
+
+![sample](./ebook_content/3.png)
