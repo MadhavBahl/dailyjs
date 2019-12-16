@@ -2,7 +2,7 @@
 
 ![The find helper](./cover.png)
 
-The `find` helper loops through an array to look for a particular element (first occurance), which passes the given criteria. 
+The `find` helper loops through an array to look for a particular element (first occurrence), which passes the given criteria. 
 
 It runs the provided function over each element, and if the particular element passes the criteria, it is returned. If no element found, `undefined` is returned.
 
@@ -10,7 +10,7 @@ This helper method does not change the original array.
 
 ## The Drawback
 
-The `find` helper will not work when you want to find more than one occurances, it will work only when you need the first occurance.
+The `find` helper will not work when you want to find more than one occurrences, it will work only when you need the first occurrence.
 
 ## Which element to choose?
 
