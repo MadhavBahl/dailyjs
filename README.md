@@ -20,12 +20,13 @@
 
 ## Table of Contents
 
-| Day Number   | Topic                | Website Link  |
-| ----- |----------------------| -----|
-| [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) |
-| [Day 2](./day2)     | [The `map` Helper](./day2)     | [http://madhavbahl.tech/dailyjs/day2/](http://madhavbahl.tech/dailyjs/day2/) |
-| [Day 3](./day3)     | [The `find` Helper](./day3)    | [http://madhavbahl.tech/dailyjs/day3/](http://madhavbahl.tech/dailyjs/day3/) |
-| [Day 4](./day4)     | [The `filter` Helper](./day4)    | [http://madhavbahl.tech/dailyjs/day4/](http://madhavbahl.tech/dailyjs/day4/) |
+| Day Number   | Topic                | Website Link  | Category |
+| ----- |----------------------| -----| ------- |
+| [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) | ES6 |
+| [Day 2](./day2)     | [The `map` Helper](./day2)     | [http://madhavbahl.tech/dailyjs/day2/](http://madhavbahl.tech/dailyjs/day2/) | ES6 |
+| [Day 3](./day3)     | [The `find` Helper](./day3)    | [http://madhavbahl.tech/dailyjs/day3/](http://madhavbahl.tech/dailyjs/day3/) | ES6 |
+| [Day 4](./day4)     | [The `filter` Helper](./day4)    | [http://madhavbahl.tech/dailyjs/day4/](http://madhavbahl.tech/dailyjs/day4/) | ES6 |
+| [Day 5](./day5)     | [The `every` Helper](./day5)    | [http://madhavbahl.tech/dailyjs/day5/](http://madhavbahl.tech/dailyjs/day5/) | ES6 |
 
 ## Disclaimer
 
