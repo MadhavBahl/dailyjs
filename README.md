@@ -28,6 +28,7 @@
 | [Day 4](./day4)     | [The `filter` Helper](./day4)    | [http://madhavbahl.tech/dailyjs/day4/](http://madhavbahl.tech/dailyjs/day4/) | **ES6 Helper** |
 | [Day 5](./day5)     | [The `every` Helper](./day5)    | [http://madhavbahl.tech/dailyjs/day5/](http://madhavbahl.tech/dailyjs/day5/) | **ES6 Helper** |
 | [Day 6](./day6)     | [The `some` Helper](./day6)    | [http://madhavbahl.tech/dailyjs/day6/](http://madhavbahl.tech/dailyjs/day6/) | **ES6 Helper** |
+| [Day 7](./day7)     | [The `reduce` Helper](./day7)    | [http://madhavbahl.tech/dailyjs/day7/](http://madhavbahl.tech/dailyjs/day7/) | **ES6 Helper** |
 
 ## Disclaimer
 
