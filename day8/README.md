@@ -4,7 +4,7 @@
 
 Introduced in ES6, arrow function allows us to write functions in a much shorter syntax. 
 
-If you started learning JavaScript after ES6, you must have came across arrow functions quite a lot, and they might have confused you some times. Fear not, today, let's clear all doubts!
+If you started learning JavaScript after ES6, you must have come across arrow functions quite a lot, and they might have confused you some times. Fear not, today, let's clear all doubts!
 
 If you are coming from any other language to JS, the syntax of arrow function might look a little new, but once you understand it, I am sure, you will never go back to the plain old `functions` (unless necessary).
 
