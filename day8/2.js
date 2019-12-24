@@ -22,8 +22,8 @@ const addAllElements2 = (arr) => {
     })
     return sum;
 }
-console.log (`Normal: Sum of elements of ${numbers} = ${addAllElements2(numbers)}`);
+console.log (`Arrow: Sum of elements of ${numbers} = ${addAllElements2(numbers)}`);
 
 // One Liner
 const addAllElements3 = arr => arr.reduce ((sum, num) => sum+num);
-console.log (`Normal: Sum of elements of ${numbers} = ${addAllElements3(numbers)}`);
+console.log (`One-Liner: Sum of elements of ${numbers} = ${addAllElements3(numbers)}`);

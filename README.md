@@ -30,6 +30,7 @@
 | [Day 6](./day6)     | [The `some` Helper](./day6)    | [http://madhavbahl.tech/dailyjs/day6/](http://madhavbahl.tech/dailyjs/day6/) | **ES6 Helper** |
 | [Day 7](./day7)     | [The `reduce` Helper](./day7)    | [http://madhavbahl.tech/dailyjs/day7/](http://madhavbahl.tech/dailyjs/day7/) | **ES6 Helper** |
 | [Day 8](./day8)     | [Arrow Functions](./day8)    | [http://madhavbahl.tech/dailyjs/day8/](http://madhavbahl.tech/dailyjs/day8/) | **ES6** |
+| [Day 9](./day9)     | [Const and Let](./day9)    | [http://madhavbahl.tech/dailyjs/day9/](http://madhavbahl.tech/dailyjs/day9/) | **ES6** |
 
 ## ES6 Helpers
 
