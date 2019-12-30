@@ -32,6 +32,7 @@
 | [Day 8](./day8)     | [Arrow Functions](./day8)    | [http://madhavbahl.tech/dailyjs/day8/](http://madhavbahl.tech/dailyjs/day8/) | **ES Essentials** |
 | [Day 9](./day9)     | [Const and Let](./day9)    | [http://madhavbahl.tech/dailyjs/day9/](http://madhavbahl.tech/dailyjs/day9/) | **ES Essentials** |
 | [Day 10](./day10)     | [Template Literals](./day10)    | [http://madhavbahl.tech/dailyjs/day10/](http://madhavbahl.tech/dailyjs/day10/) | **ES Essentials** |
+| [Day 11](./day11)     | [Enhanced Object Literals](./day11)    | [http://madhavbahl.tech/dailyjs/day11/](http://madhavbahl.tech/dailyjs/day11/) | **ES Essentials** |
 
 ## ES6 Helpers
 
