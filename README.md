@@ -34,6 +34,7 @@
 | [Day 10](./day10)     | [Template Literals](./day10)    | [http://madhavbahl.tech/dailyjs/day10/](http://madhavbahl.tech/dailyjs/day10/) | **ES Essentials** |
 | [Day 11](./day11)     | [Enhanced Object Literals](./day11)    | [http://madhavbahl.tech/dailyjs/day11/](http://madhavbahl.tech/dailyjs/day11/) | **ES Essentials** |
 | [Day 12](./day12)     | [The Rest Parameter](./day12)    | [http://madhavbahl.tech/dailyjs/day12/](http://madhavbahl.tech/dailyjs/day12/) | **ES Essentials** |
+| [Day 13](./day13)     | [The Spread Operator](./day13)    | [http://madhavbahl.tech/dailyjs/day13/](http://madhavbahl.tech/dailyjs/day13/) | **ES Essentials** |
 
 ## ES6 Helpers
 
