@@ -22,19 +22,19 @@
 
 | Day Number   | Topic                | Website Link  | Category |
 | ----- |----------------------| -----| ------- |
-| [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) | **ES6 Helper** |
-| [Day 2](./day2)     | [The `map` Helper](./day2)     | [http://madhavbahl.tech/dailyjs/day2/](http://madhavbahl.tech/dailyjs/day2/) | **ES6 Helper** |
-| [Day 3](./day3)     | [The `find` Helper](./day3)    | [http://madhavbahl.tech/dailyjs/day3/](http://madhavbahl.tech/dailyjs/day3/) | **ES6 Helper** |
-| [Day 4](./day4)     | [The `filter` Helper](./day4)    | [http://madhavbahl.tech/dailyjs/day4/](http://madhavbahl.tech/dailyjs/day4/) | **ES6 Helper** |
-| [Day 5](./day5)     | [The `every` Helper](./day5)    | [http://madhavbahl.tech/dailyjs/day5/](http://madhavbahl.tech/dailyjs/day5/) | **ES6 Helper** |
-| [Day 6](./day6)     | [The `some` Helper](./day6)    | [http://madhavbahl.tech/dailyjs/day6/](http://madhavbahl.tech/dailyjs/day6/) | **ES6 Helper** |
-| [Day 7](./day7)     | [The `reduce` Helper](./day7)    | [http://madhavbahl.tech/dailyjs/day7/](http://madhavbahl.tech/dailyjs/day7/) | **ES6 Helper** |
-| [Day 8](./day8)     | [Arrow Functions](./day8)    | [http://madhavbahl.tech/dailyjs/day8/](http://madhavbahl.tech/dailyjs/day8/) | **ES Essentials** |
-| [Day 9](./day9)     | [Const and Let](./day9)    | [http://madhavbahl.tech/dailyjs/day9/](http://madhavbahl.tech/dailyjs/day9/) | **ES Essentials** |
-| [Day 10](./day10)     | [Template Literals](./day10)    | [http://madhavbahl.tech/dailyjs/day10/](http://madhavbahl.tech/dailyjs/day10/) | **ES Essentials** |
-| [Day 11](./day11)     | [Enhanced Object Literals](./day11)    | [http://madhavbahl.tech/dailyjs/day11/](http://madhavbahl.tech/dailyjs/day11/) | **ES Essentials** |
-| [Day 12](./day12)     | [The Rest Parameter](./day12)    | [http://madhavbahl.tech/dailyjs/day12/](http://madhavbahl.tech/dailyjs/day12/) | **ES Essentials** |
-| [Day 13](./day13)     | [The Spread Operator](./day13)    | [http://madhavbahl.tech/dailyjs/day13/](http://madhavbahl.tech/dailyjs/day13/) | **ES Essentials** |
+| [Day 1](./day1)     | [The `forEach` Helper](./day1) | [http://madhavbahl.tech/dailyjs/day1/](http://madhavbahl.tech/dailyjs/day1/) | **ES Essentials - ES6 Helper** |
+| [Day 2](./day2)     | [The `map` Helper](./day2)     | [http://madhavbahl.tech/dailyjs/day2/](http://madhavbahl.tech/dailyjs/day2/) | **ES Essentials - ES6 Helper** |
+| [Day 3](./day3)     | [The `find` Helper](./day3)    | [http://madhavbahl.tech/dailyjs/day3/](http://madhavbahl.tech/dailyjs/day3/) | **ES Essentials - ES6 Helper** |
+| [Day 4](./day4)     | [The `filter` Helper](./day4)    | [http://madhavbahl.tech/dailyjs/day4/](http://madhavbahl.tech/dailyjs/day4/) | **ES Essentials - ES6 Helper** |
+| [Day 5](./day5)     | [The `every` Helper](./day5)    | [http://madhavbahl.tech/dailyjs/day5/](http://madhavbahl.tech/dailyjs/day5/) | **ES Essentials - ES6 Helper** |
+| [Day 6](./day6)     | [The `some` Helper](./day6)    | [http://madhavbahl.tech/dailyjs/day6/](http://madhavbahl.tech/dailyjs/day6/) | **ES Essentials - ES6 Helper** |
+| [Day 7](./day7)     | [The `reduce` Helper](./day7)    | [http://madhavbahl.tech/dailyjs/day7/](http://madhavbahl.tech/dailyjs/day7/) | **ES Essentials - ES6 Helper** |
+| [Day 8](./day8)     | [Arrow Functions](./day8)    | [http://madhavbahl.tech/dailyjs/day8/](http://madhavbahl.tech/dailyjs/day8/) | **ES Essentials - ES6** |
+| [Day 9](./day9)     | [Const and Let](./day9)    | [http://madhavbahl.tech/dailyjs/day9/](http://madhavbahl.tech/dailyjs/day9/) | **ES Essentials - ES6** |
+| [Day 10](./day10)     | [Template Literals](./day10)    | [http://madhavbahl.tech/dailyjs/day10/](http://madhavbahl.tech/dailyjs/day10/) | **ES Essentials - ES6** |
+| [Day 11](./day11)     | [Enhanced Object Literals](./day11)    | [http://madhavbahl.tech/dailyjs/day11/](http://madhavbahl.tech/dailyjs/day11/) | **ES Essentials - ES6** |
+| [Day 12](./day12)     | [The Rest Parameter](./day12)    | [http://madhavbahl.tech/dailyjs/day12/](http://madhavbahl.tech/dailyjs/day12/) | **ES Essentials - ES6** |
+| [Day 13](./day13)     | [The Spread Operator](./day13)    | [http://madhavbahl.tech/dailyjs/day13/](http://madhavbahl.tech/dailyjs/day13/) | **ES Essentials - ES6** |
 
 ## ES6 Helpers
 
