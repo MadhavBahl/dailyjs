@@ -35,9 +35,10 @@
 | [Day 11](./day11)     | [Enhanced Object Literals](./day11)    | [http://madhavbahl.tech/dailyjs/day11/](http://madhavbahl.tech/dailyjs/day11/) | **ES Essentials - ES6** |
 | [Day 12](./day12)     | [The Rest Parameter](./day12)    | [http://madhavbahl.tech/dailyjs/day12/](http://madhavbahl.tech/dailyjs/day12/) | **ES Essentials - ES6** |
 | [Day 13](./day13)     | [The Spread Operator](./day13)    | [http://madhavbahl.tech/dailyjs/day13/](http://madhavbahl.tech/dailyjs/day13/) | **ES Essentials - ES6** |
-| [Day 14](./day14)     | [Destructuring Part 1 (Extracting Object Properties)](./day14)    | [http://madhavbahl.tech/dailyjs/day14/](http://madhavbahl.tech/dailyjs/day14/) | **ES Essentials - ES6** |
-| [Day 15](./day15)     | [Destructuring Part 2 (Destructuring Function Args)](./day15)    | [http://madhavbahl.tech/dailyjs/day15/](http://madhavbahl.tech/dailyjs/day15/) | **ES Essentials - ES6** |
-| [Day 16](./day16)     | [Destructuring Part 3 (Destructuring Arrays)](./day16)    | [http://madhavbahl.tech/dailyjs/day16/](http://madhavbahl.tech/dailyjs/day16/) | **ES Essentials - ES6** |
+| [Day 14](./day14)     | [Extracting Object Properties](./day14)    | [http://madhavbahl.tech/dailyjs/day14/](http://madhavbahl.tech/dailyjs/day14/) | **ES Essentials - ES6** |
+| [Day 15](./day15)     | [Destructuring Function Args](./day15)    | [http://madhavbahl.tech/dailyjs/day15/](http://madhavbahl.tech/dailyjs/day15/) | **ES Essentials - ES6** |
+| [Day 16](./day16)     | [Destructuring Arrays)](./day16)    | [http://madhavbahl.tech/dailyjs/day16/](http://madhavbahl.tech/dailyjs/day16/) | **ES Essentials - ES6** |
+| [Day 17](./day17)     | [Destructuring Part 4](./day17)    | [http://madhavbahl.tech/dailyjs/day17/](http://madhavbahl.tech/dailyjs/day17/) | **ES Essentials - ES6** |
 
 ## ES6 Helpers
 
