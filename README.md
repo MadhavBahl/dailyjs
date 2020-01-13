@@ -39,6 +39,7 @@
 | [Day 15](./day15)     | [Destructuring Function Args](./day15)    | [http://madhavbahl.tech/dailyjs/day15/](http://madhavbahl.tech/dailyjs/day15/) | **ES Essentials - ES6** |
 | [Day 16](./day16)     | [Destructuring Arrays)](./day16)    | [http://madhavbahl.tech/dailyjs/day16/](http://madhavbahl.tech/dailyjs/day16/) | **ES Essentials - ES6** |
 | [Day 17](./day17)     | [Destructuring Part 4](./day17)    | [http://madhavbahl.tech/dailyjs/day17/](http://madhavbahl.tech/dailyjs/day17/) | **ES Essentials - ES6** |
+| [Day 18](./day18)     | [Destructuring Part 5](./day18)    | [http://madhavbahl.tech/dailyjs/day18/](http://madhavbahl.tech/dailyjs/day18/) | **ES Essentials - ES6** |
 
 ## ES6 Helpers
 
