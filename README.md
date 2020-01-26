@@ -44,6 +44,7 @@
 | [Day 20](./day20)     | [Destructuring Part 7](./day20)    | [http://madhavbahl.tech/dailyjs/day20/](http://madhavbahl.tech/dailyjs/day20/) | **ES Essentials - ES6** | 
 | [Day 21](./day21)     | [Default Function Arguments](./day21)    | [http://madhavbahl.tech/dailyjs/day21/](http://madhavbahl.tech/dailyjs/day21/) | **ES Essentials - ES6** |
 | [Day 22](./day22)     | [Class](./day22)    | [http://madhavbahl.tech/dailyjs/day22/](http://madhavbahl.tech/dailyjs/day22/) | **ES Essentials - ES6** |
+| [Day 23](./day23)     | [Inheritance](./day23)    | [http://madhavbahl.tech/dailyjs/day23/](http://madhavbahl.tech/dailyjs/day23/) | **ES Essentials - ES6** |
 
 ## ES6 Helpers
 
