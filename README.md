@@ -47,6 +47,7 @@
 | [Day 23](./day23)     | [Inheritance](./day23)    | [http://madhavbahl.tech/dailyjs/day23/](http://madhavbahl.tech/dailyjs/day23/) | **ES Essentials - ES6** |
 | [Day 24](./day24)     | [For...Of Loop](./day24)    | [http://madhavbahl.tech/dailyjs/day24/](http://madhavbahl.tech/dailyjs/day24/) | **DailyJS** |
 | [Day 25](./day25)     | [For...In Loop](./day25)    | [http://madhavbahl.tech/dailyjs/day25/](http://madhavbahl.tech/dailyjs/day25/) | **DailyJS** |
+| [Day 26](./day26)     | [Map](./day26)    | [http://madhavbahl.tech/dailyjs/day26/](http://madhavbahl.tech/dailyjs/day26/) | **DailyJS** |
 
 ## ES6 Helpers
 
