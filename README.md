@@ -48,8 +48,9 @@
 | [Day 24](./day24)     | [For...Of Loop](./day24)    | [http://madhavbahl.tech/dailyjs/day24/](http://madhavbahl.tech/dailyjs/day24/) | **DailyJS** |
 | [Day 25](./day25)     | [For...In Loop](./day25)    | [http://madhavbahl.tech/dailyjs/day25/](http://madhavbahl.tech/dailyjs/day25/) | **DailyJS** |
 | [Day 26](./day26)     | [Map](./day26)    | [http://madhavbahl.tech/dailyjs/day26/](http://madhavbahl.tech/dailyjs/day26/) | **DailyJS** |
-| [Day 27](./day27)     | [Map](./day27)    | [http://madhavbahl.tech/dailyjs/day27/](http://madhavbahl.tech/dailyjs/day27/) | **DailyJS** |
-| [Day 28](./day28)     | [Map](./day28)    | [http://madhavbahl.tech/dailyjs/day28/](http://madhavbahl.tech/dailyjs/day28/) | **DailyJS** |
+| [Day 27](./day27)     | [WeakMap](./day27)    | [http://madhavbahl.tech/dailyjs/day27/](http://madhavbahl.tech/dailyjs/day27/) | **DailyJS** |
+| [Day 28](./day28)     | [Set](./day28)    | [http://madhavbahl.tech/dailyjs/day28/](http://madhavbahl.tech/dailyjs/day28/) | **DailyJS** |
+| [Day 29](./day29)     | [WeakSet](./day29)    | [http://madhavbahl.tech/dailyjs/day29/](http://madhavbahl.tech/dailyjs/day29/) | **DailyJS** |
 
 ## ES6 Helpers
 
