@@ -1,6 +1,6 @@
 # Day 31: Dates in JS - Part 2: Get Methods
 
-Hello and welsome back to the 31st Day of the DailyJS initiative, as we discussed yesterday that our topic for this week will be `Dates in JS`, today we will start discussing about the instance methods of the Date object.
+Hello and welcome back to the 31st Day of the DailyJS initiative, as we discussed the last day that our topic for this week will be `Dates in JS`, today we will start discussing about the instance methods of the Date object.
 
 In JavaScript, there are many instance methods available for Dates, which can be broadly classified into `Get` and `Set` methods.
 

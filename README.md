@@ -53,6 +53,7 @@
 | [Day 29](./day29)     | [WeakSet](./day29)    | [http://madhavbahl.tech/dailyjs/day29/](http://madhavbahl.tech/dailyjs/day29/) | **DailyJS** |
 | [Day 30](./day30)     | [Dates in JS - Part 1](./day30)    | [http://madhavbahl.tech/dailyjs/day30/](http://madhavbahl.tech/dailyjs/day30/) | **DailyJS** |
 | [Day 31](./day31)     | [Dates in JS - Part 2](./day31)    | [http://madhavbahl.tech/dailyjs/day31/](http://madhavbahl.tech/dailyjs/day31/) | **DailyJS** |
+| [Day 32](./day32)     | [Dates in JS - Part 3](./day32)    | [http://madhavbahl.tech/dailyjs/day32/](http://madhavbahl.tech/dailyjs/day32/) | **DailyJS** |
 
 ## ES6 Helpers
 
