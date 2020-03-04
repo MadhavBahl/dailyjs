@@ -55,6 +55,34 @@
 | [Day 31](./day31)     | [Dates in JS - Part 2](./day31)    | [http://madhavbahl.tech/dailyjs/day31/](http://madhavbahl.tech/dailyjs/day31/) | **DailyJS** |
 | [Day 32](./day32)     | [Dates in JS - Part 3](./day32)    | [http://madhavbahl.tech/dailyjs/day32/](http://madhavbahl.tech/dailyjs/day32/) | **DailyJS** |
 
+<hr />
+
+# Important Announcement
+
+## DailyJS is now JS-Snippets
+
+I am very happy to share that a lot of people liked my DailyJS initiative, I got a very good response, but I noticed something very interesting.
+
+In the DailyJS initiative, I was sharing a lot of information in one go, and that too, daily.
+
+I saw a pattern on my Instagram DailyJS posts' insights, the views were VERY high, the likes were a little low, and many people were saving the post.
+
+From this, I inferred that people might be saving it for later reference, and I kept posting the DailyJS post, but then I decided to ask for feedbacks on how the initiative could be better.
+
+So, I recently asked a few people about feedback, and almost all of them told me that the initiative is AMAZING, but, the content was too much to consume at once. People generally scroll through Instagram when they are bored, and tend to ignore the LONG posts, and hence, they save them for later (but that "later" generally doesn't come).
+
+Hence I decided to change DailyJS to JS-Snippets, where (just like before) I will share a JS concept daily, with minimal details and a code snippet 😁
+
+Hope you like it 🔥
+
+![jssnippets](./jssnippets.png)
+
+## DailyJS - JS Snippets
+
+| Day Number   | Topic                | Website Link  | Instagram Post |
+| ----- |----------------------| -----| ------- |
+| 1  | Date Object Get Methods | [http://madhavbahl.tech/dailyjs/jss1/](http://madhavbahl.tech/dailyjs/jss1/) | [instagram.com/p/B9RmEnXhAMO/](https://www.instagram.com/p/B9RmEnXhAMO/?utm_source=ig_web_copy_link)
+
 ## ES6 Helpers
 
 Till the `Day 7` we have discussed about ES6 Helpers, which are as follows:
