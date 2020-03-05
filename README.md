@@ -79,9 +79,11 @@ Hope you like it 🔥
 
 ## DailyJS - JS Snippets
 
-| Day Number   | Topic                | Website Link  | Instagram Post |
+| Day  | Topic                | Website Link  | Instagram Post |
 | ----- |----------------------| -----| ------- |
-| 1  | Date Object Get Methods | [http://madhavbahl.tech/dailyjs/jss1/](http://madhavbahl.tech/dailyjs/jss1/) | [instagram.com/p/B9RmEnXhAMO/](https://www.instagram.com/p/B9RmEnXhAMO/?utm_source=ig_web_copy_link)
+| 1  | Date: Get hours, mins & secs | [http://madhavbahl.tech/dailyjs/jss1/](http://madhavbahl.tech/dailyjs/jss1/) | [instagram.com/p/B9RmEnXhAMO/](https://www.instagram.com/p/B9RmEnXhAMO/?utm_source=ig_web_copy_link) |
+| 2  | Digital Clock | [madhavbahl.tech/dailyjs/jss2/](http://madhavbahl.tech/dailyjs/jss2/) | [instagram.com/p/B9UZ9EZhNPV/](https://www.instagram.com/p/B9UZ9EZhNPV/?utm_source=ig_web_copy_link) |
+| 3  | Date: Get year, month & date | [madhavbahl.tech/dailyjs/jss3/](http://madhavbahl.tech/dailyjs/jss3/) | [instagram.com/p/B9W9svcBbN6/](https://www.instagram.com/p/B9W9svcBbN6/?utm_source=ig_web_copy_link) |
 
 ## ES6 Helpers
 

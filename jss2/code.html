@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+</head>
+<body>
+    <h1 id="time"></h1>
+    <script>
+        const timeEle = document.getElementById ('time');
+        const updateTime = () => {
+            const currentDate = new Date();
+
+            const hour = currentDate.getHours();
+            const mins = currentDate.getMinutes();
+            const secs = currentDate.getSeconds();
+
+            currentTime = `${hour} : ${mins} : ${secs}`;
+            timeEle.innerHTML =  currentTime;
+        }
+
+        setInterval (() => {
+            updateTime();
+        }, 1000)
+    </script>
+</body>
+</html>
