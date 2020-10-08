@@ -81,7 +81,11 @@ array.forEach(function(currentValue, index, arr), thisValue)
 
 ## Practise questions
 
-To be added...
+[Feel free to add more and open a Pull Request]
+
+ 1) Find and print product of all numbers in the given array which are divisible by 2?
+
+
 
 ## Download your free eBook
 
