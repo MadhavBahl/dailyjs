@@ -10,3 +10,12 @@ arr.forEach(function(a){
     product=product*a;
 });
 console.log(product);
+
+
+/**
+ * find and print length of each string in the given array
+ * @author https://github.com/rajat-ds
+ */
+
+ const nameArray= ["sun","monday","Tuesday","wednesday","Thursday"]
+ nameArray.forEach(str=>console.log("length of " + str + " is : "+ str.length))
