@@ -6,7 +6,7 @@
 
 const fruits = ["apple", "banana", "tomato", "mango", "cherry"];
 const fruitResult = fruits.find((fruit) => fruit.startsWith("m"));
-console.log("fruit starting with m ", fruitResult);
+console.log(fruitResult);
 
 /**
  * Find the  first tree having name oak
